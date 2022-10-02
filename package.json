@@ -1,0 +1,11 @@
+{
+    "name": "abdullahsajid",
+    "version": "1.0.0",
+    "bin": {
+        "abdullah": "index.js"
+    },
+    "dependencies": {
+        "abdullahsajid": "^1.0.0",
+        "cmd": "^0.1.0"
+    }
+}
